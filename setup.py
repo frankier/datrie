@@ -34,7 +34,7 @@ CLASSIFIERS = [
 ]
 
 
-setup(name="datrie",
+setup(name="datrie-2019",
       version="0.7.1",
       description=DESCRIPTION,
       long_description=LONG_DESCRIPTION,
